@@ -50,19 +50,7 @@ export default ({ data }) => {
           </p>
           <p className="i-5 mt-4 pt-2">
             Hello there! My name is <b>{`${author}`}</b>. I am a&nbsp;
-            <a
-              href="https://www.dictionary.com/e/fictional-characters/padawan/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              padawan
-            </a>
-            &nbsp;
-            <b>{occupation}</b> discovering the ways of the code. Lorem ipsum
-            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-            veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat.
+            <b>{occupation}</b> using technologies such as Vue, React and NodeJS. I consider myself as a perseverant, responsible and focused programmer who always like challengues and try to innovate resolving differents problems in any area.
           </p>
           <p className="i-5">
             In my spare time, Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -72,8 +60,7 @@ export default ({ data }) => {
           </p>
           <p className="i-5">
             Check out my <Link to="/projects">projects</Link> to see what I've
-            been up to! Or check out my <Link to="/blog">blog</Link> to see
-            what's recently caught my eye!
+            been up to! 
           </p>
         </article>
         <article className="w-75 m-auto">
