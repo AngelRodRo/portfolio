@@ -7,9 +7,9 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `John Doe`,
-    author: `John Doe`,
-    firstName: `Alejandro`,
+    title: `Angel Rodriguez`,
+    author: `Angel`,
+    firstName: `Angel`,
     lastName: `Rodriguez`,
     description: `John Doe's personal site`,
     occupation: `Software Engineer`,
